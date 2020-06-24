@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "description": "Dai Savings Rate Demo App made with Dai.js",
+  "iconPath": "myAppIcon.svg",
+  "short_name": "DSR",
+  "name": "Dai Savings Rate",
   "icons": [
     {
       "src": "favicon.ico",
